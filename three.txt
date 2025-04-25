@@ -1,2 +1,6 @@
 printf("hello  world 3");
 printf("branch 3");
+<<<<<<< HEAD
+=======
+printf("branch 3.3");
+>>>>>>> branch2
